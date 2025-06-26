@@ -1,0 +1,7 @@
+path: Dataset PATH
+train: images/train PATH
+val: images/val PATH
+test: images/test PATH
+nc: Class Number
+names:
+  0: Class Name
